@@ -280,6 +280,6 @@ function encrypt(t) {
             return e[["join"]]('');
           }  // ddCaptchaEncodedPayload
 
-let long_array = process.argv[2];
+let long_array = JSON.parse(process.argv[2]);
 
 console.log(encrypt(long_array));
