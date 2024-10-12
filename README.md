@@ -1,0 +1,2 @@
+# datadome-ddCaptchaEncodedPayload
+generates ddCaptchaEncodedPayload
